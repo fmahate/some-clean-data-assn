@@ -12,7 +12,7 @@ The project consists of one R script:
 
 All the processing is contained in one script. This script downloads the raw dataset, processes, and finally writes the tidy dataset to a file. Please refer to the __Codebook.md__ document for detailed description of all processing steps to transform the raw dataset to the tidy dataset. The __Codebook.md__ document also includes the data dictionary for the tidy dataset.
 
-** Processing Steps (Copied from Codebook.md)** - in case reviewer missed the comment above!!!!
+**Processing Steps (Copied from Codebook.md)** - in case reviewer missed the comment above!!!!
 
 The following are the high level steps performed by the R script to process the raw dataset into the transformed (tidy) form:
 
